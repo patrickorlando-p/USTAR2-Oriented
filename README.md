@@ -48,4 +48,7 @@ Note that you'll need to install [Jellyfish-2](https://github.com/zippav/Jellyfi
 
 ## References
 
-Paper under submission...
+Rossignolo, E., Comin, M. (2026). A Linear Algorithm For Efficient Representation of k-mer Sets Using De Bruijn Graphs. In: Guarino, M.P., et al. Biomedical Engineering Systems and Technologies. BIOSTEC 2024. Communications in Computer and Information Science, vol 2546. Springer, Cham. https://doi.org/10.1007/978-3-031-96899-0_11
+
+Rossignolo E. and Comin M. (2024). USTAR2: Fast and Succinct Representation of k-mer Sets Using De Bruijn Graphs. In Proceedings of the 17th International Joint Conference on Biomedical Engineering Systems and Technologies - Volume 1: BIOINFORMATICS; ISBN 978-989-758-688-0, SciTePress, pages 368-378. DOI: 10.5220/0012423100003657
+

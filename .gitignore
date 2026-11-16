@@ -1,0 +1,6 @@
+# File generati dalla compilazione
+/build/
+
+# Output temporanei dei test
+/unitigs.k21.ustar.fa
+/unitigs.k3.ustar.fa

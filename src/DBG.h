@@ -7,6 +7,7 @@
 
 #include <string>
 #include <vector>
+#include <cstdint>
 
 // array size 1MB
 #define MAX_LINE_LEN 1000000

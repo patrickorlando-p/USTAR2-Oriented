@@ -5,6 +5,7 @@
 #ifndef USTAR_ENCODER_H
 #define USTAR_ENCODER_H
 
+#include <cstdint>
 #include <vector>
 #include <map>
 #include "consts.h"

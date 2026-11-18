@@ -5,6 +5,7 @@
 #ifndef USTAR_DECODER_H
 #define USTAR_DECODER_H
 
+#include <cstdint>
 #include <string>
 #include <vector>
 
